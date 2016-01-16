@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T07:15:05.943Z'
+datePublished: '2016-01-16T07:15:06.103Z'
 dateModified: '2016-01-16T07:15:02.202Z'
 title: Open Source Intelligence
 author: []
