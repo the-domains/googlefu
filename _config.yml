@@ -1,0 +1,28 @@
+name: googlefu
+favicon: null
+layout_spectrum: 0.6505952735897154
+typography_spectrum: 0.3166201435960829
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#000000'
+    - '#ff1d19'
+    - '#ffbc3c'
+    - '#1e6df7'
+  brandStrength: 0.125
+  lightness: 0.08825318585149944
+  saturation: 0.6548153052572161
+  rhythmicContrast: 0.192588125821203
+purpose: []
