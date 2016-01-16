@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[googlefu]]></title>
         <description><![CDATA[googlefu]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/googlefu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 07:13:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jan 2016 07:15:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/googlefu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Open Source Intelligence]]></title>
             <description><![CDATA[<article><h1>Open Source Intelligence</h1><p>GoogleFu Global WorldBrain Website</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2698fe59052765008bd0e4639155a9040ef66cd.png"></article>]]></description>
-            <link>undefinedopen-source-intelligence/index.html</link>
+            <link>https://thegrid.ai/googlefu/open-source-intelligence/index.html</link>
             <guid isPermaLink="false">47c7280d-51fa-40d7-8175-819fbb672821</guid>
-            <pubDate>Sat, 16 Jan 2016 07:13:51 GMT</pubDate>
+            <pubDate>Sat, 16 Jan 2016 07:15:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
